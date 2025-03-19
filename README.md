@@ -22,8 +22,8 @@ Ikuti langkah-langkah berikut untuk menyiapkan dan menjalankan aplikasi:
 1. **Clone repositori**
 
 ```bash
-git clone https://github.com/your-username/anyaman-dev-support-interview.git
-cd anyaman-dev-support-interview
+git clone https://github.com/multabisu/rimba-ananta-vikasa-interview-arief-umarjati.git
+cd rimba-ananta-vikasa-interview-arief-umarjati
 
 
 composer install
